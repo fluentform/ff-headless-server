@@ -3,7 +3,7 @@ Fluent Forms Headless Server
 This is a proof of concept to connect a headless site with Fluent Forms in the backend server.
 Please note that, We did not validate the data, but you will get a fair concept how it can work and update previous data or create new entry via http request. 
 
-####Example Usage:
+#### Example Usage:
 
 ```
 POST: https://domain.com/?ff_capture=yes&form_id=FORMID
