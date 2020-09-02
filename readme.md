@@ -1,3 +1,5 @@
+![Fluent Forms Headless Server](https://raw.githubusercontent.com/fluentform/ff-headless-server/master/poster.png)
+
 Fluent Forms Headless Server
 ----
 This is a proof of concept to connect a headless site with Fluent Forms in the backend server.
