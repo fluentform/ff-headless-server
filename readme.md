@@ -9,7 +9,17 @@ Please note that, We did not validate the data, but you will get a fair concept 
 
 ```
 POST: https://domain.com/?ff_capture=yes&form_id=FORMID
-BODY: form_data: JSON_FORM_DATA_AS_KEY_VALUE
+BODY: form_body: JSON_FORM_DATA_AS_KEY_VALUE
+```
+
+```
+{
+    "form_body" : {
+        "email" : "test@mail.com",
+        "name"  : "my name",
+        ...
+    }
+}
 ```
 
 You can also send the form_data as direct form submission 
